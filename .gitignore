@@ -1,9 +1,20 @@
 .DS_Store
 node_modules
-/dist
-
-/tests/e2e/videos/
-/tests/e2e/screenshots/
+/src
+/public
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc*
+.travis.yml
+.postcssrc.js
+.vue.config.js
+cypress.json
+package*
+yarn*
+vue.config*
+LICENSE
+/tests
 
 # local env files
 .env.local
